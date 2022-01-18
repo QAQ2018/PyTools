@@ -1,0 +1,17 @@
+nltk
+numpy
+scipy
+matplotlib
+jupyterlab
+sklearn
+cython
+altair
+pandas
+mat73
+seaborn
+multiprocessing
+opencv-python
+EMD-signal
+neurokit2
+pyeeg
+# Go to Pytorch website for compatible download
